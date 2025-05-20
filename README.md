@@ -53,5 +53,5 @@ Feel free to reach out!
 - [LinkedIn](https://www.linkedin.com/in/jorens-sarma/)
 - Email: *available upon request*
 
-![Jorens's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Jorens's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsdlv&show_icons=true&theme=default)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
