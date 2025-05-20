@@ -1,7 +1,7 @@
 # Hello, my name is Jorens, and I am Software Developer
 
 Other people describe me as a friendly, punctual and hardworking person.<br><br>
-One of my passions is the Formula 1 World Championship. I like to follow Formula 1 competitions and create various databases where I collect various types of information and statistics about and around Formula 1.
+One of my passions is the Formula One World Championship. I like to follow Formula One competitions and create various databases where I collect various types of information and statistics about and around Formula One.
 <br><br>
 Besides that, I enjoy watching movies, taking walks, and simply listening to music.
 
@@ -44,13 +44,7 @@ In 2023, I decided to take my knowledge to the next level and started working at
 
 ## GitHub Projects Worth Mentioning
 
-- [Rick and Morty API](https://github.com/jsdlv/rnm)
-    - <strong>Used Techs</strong>: PHP, JSON
-    - <strong>Description</strong>: Application to list Rick and Morty episodes by season, and allows to search episode or episodes
-
-- [News API](https://github.com/jsdlv/news-api)
-    - <strong>Used Techs</strong>: PHP, JSON
-    - <strong>Description</strong>: Application allows you to search for any news article
+- Camming soon
 
 ## Contacts
 
