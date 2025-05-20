@@ -1,53 +1,57 @@
-# Hello, my name is Jorens, and I am Software Developer
+# 👋 Hi, I'm Jorens Sarma
 
-Other people describe me as a friendly, punctual and hardworking person.<br><br>
-One of my passions is the Formula One World Championship. I like to follow Formula One competitions and create various databases where I collect various types of information and statistics about and around Formula One.
-<br><br>
-Besides that, I enjoy watching movies, taking walks, and simply listening to music.
+I'm a passionate Software Developer from Latvia 🇱🇻, known for being friendly, punctual, and hardworking.
 
-## About My Journey In WEB Development
+🧠 One of my passions is the Formula 1 World Championship — I love collecting and analyzing data and statistics from F1 races.  
+🎬 In my spare time, I enjoy watching movies, going on walks, and listening to music.
 
-My path as a programmer began with the BASIC programming language in the distant nineties, already after the first attempts I realized that this would be my main desire - to become a programmer. The twists and turns of life have been such that it was not always possible to do programming, but this desire has never disappeared. <br><br>
-Around 2018, this desire flared up with a new, much bigger flame, I started learning the basics of HTML, followed by CSS with an insight into SASS, the next step was already the first attempts in the JavaScript world, I started writing simple projects. 2019 was the first serious attempt, when I completed the "Komplekss Citadele" Development of web solutions course. And then came Covid-19... <br><br>
-In 2022, I decided to start my studies at Alberta College, where I learned the basics of C++ during the first year and gained great experience in object-oriented programming. <br><br>
-In 2023, I decided to take my knowledge to the next level and started working at Codelex, where I improved my PHP knowledge to unprecedented heights under the guidance of my excellent mentor Jānis. I created various projects in the PHP language using Laravel, gained good experience in working with various APIs, improved my experience in working with databases using MySQL. <br>
+## 💻 My Journey in Web Development
 
-## Skills
+My passion for programming started in the 90s with BASIC. Although life took me on different paths, my love for code never faded.
+
+- 🧩 2018 — Reignited my interest with HTML, CSS (and SASS), and JavaScript.
+- 🚀 2019 — Completed the "Komplekss Citadele" Web Development course.
+- 😷 2020 — Continued self-learning during the pandemic.
+- 🎓 2022 — Enrolled at Alberta College (learned C++ and OOP).
+- 🧑‍💻 2023 — Joined Codelex and mastered PHP & Laravel under a great mentor.
+
+Throughout this journey, I’ve developed strong front-end and back-end skills and love building practical projects.
+
+## 🛠️ Skills
 
 ### Front-End
-
-- HTML5
-- CSS / SASS / Tailwind
-- JavaScript / TypeScript
+- HTML5, CSS3 / SASS / Tailwind
+- JavaScript, TypeScript
 
 ### Back-End
-
 - PHP / Laravel
 - C++
 - MySQL
 
-### Other Skills and Tools
-
+### Tools & Platforms
 - Git / GitHub
-- Microsoft Visual Studio
-- Microsoft Visual Studio Code
-- JetBrains PHPStorm
-- JetBrains WebStorm
+- VS Code, PHPStorm, WebStorm
+- REST APIs
 
-## Courses and Certificates
+## 🎓 Courses & Certifications
 
-- Komlekss Citadele - Development of web solutions
-- WIPO Academy - Intellectual Property General Course
-- Mirte - English (Higher Intermediate)
-- CodingGame - Coding Speed: Silver Level
-- Codelex - PHP Developer
+- 💼 Komplekss Citadele – Web Development Course
+- 🧠 WIPO Academy – General Course on Intellectual Property
+- 🇬🇧 Mirte – English (Higher Intermediate)
+- ⚡ CodingGame – Coding Speed: Silver Level
+- 🏆 Codelex – PHP Developer Training
 
-## GitHub Projects Worth Mentioning
+## 📂 Featured Projects
 
-- Camming soon
+🚧 Projects are currently under construction – stay tuned!  
+I'm working on uploading and refining some of my best work.
 
-## Contacts
+## 📫 Contact Me
 
-Feel free to contact me
+Feel free to reach out!
 
-- [LinkedIn](https://www.linkedin.com/in/jorens-sarma/ "My LinkedIn Profile")
+- [LinkedIn](https://www.linkedin.com/in/jorens-sarma/)
+- Email: *available upon request*
+
+![Jorens's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
