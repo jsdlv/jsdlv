@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Jorens Sarma
+# 👋 Hi, I'm Jorens
 
 I'm a passionate Software Developer from Latvia 🇱🇻, known for being friendly, punctual, and hardworking.
 
-🧠 One of my passions is the Formula 1 World Championship — I love collecting and analyzing data and statistics from F1 races.  
+🧠 One of my passions is the Formula One World Championship — I love collecting and analyzing data and statistics from F1 races.  
 🎬 In my spare time, I enjoy watching movies, going on walks, and listening to music.
 
 ## 💻 My Journey in Web Development
@@ -53,5 +53,4 @@ Feel free to reach out!
 - [LinkedIn](https://www.linkedin.com/in/jorens-sarma/)
 - Email: *available upon request*
 
-![Jorens's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsdlv&show_icons=true&theme=default)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
